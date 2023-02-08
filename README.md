@@ -4,7 +4,7 @@ A very, very primitve config reader.
 
 
 example input file:
-
+```
 >section;
 key=value;
 value=key;
@@ -12,3 +12,4 @@ value=key;
 >section2;
 another=key;
 value=another;
+```
